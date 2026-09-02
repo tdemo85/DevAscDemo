@@ -4,5 +4,5 @@ sorted
 sdd
 
 
-print("Welcome to DEVASC")
+print("Welcome to DevAsc")
 
